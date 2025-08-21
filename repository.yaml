@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Test Home Assistant add-on repository
+url: 'https://github.com/schuby-doo/my_first_ha_addon'
+maintainer: Awesome Maintainer <19798905+schuby-doo@users.noreply.github.com>
